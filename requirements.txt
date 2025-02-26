@@ -18,3 +18,4 @@ xgboost
 joblib
 reportlab
 python-docx
+pycountry
