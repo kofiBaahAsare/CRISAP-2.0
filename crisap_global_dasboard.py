@@ -8,7 +8,7 @@ import hashlib
 import os
 import subprocess
 import openai
-from supabase import create_client, Client
+import supabase 
 from climada.hazard import Hazard
 from climada.entity import Exposures
 from climada.engine import Impact
