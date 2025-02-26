@@ -19,3 +19,4 @@ joblib
 reportlab
 python-docx
 pycountry
+supabase-py
